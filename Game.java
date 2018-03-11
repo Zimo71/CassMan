@@ -1,3 +1,7 @@
+// Game class for CassMan game
+// Alex Zimorino
+// 3/10/18
+
 package cassMan;
 
 public class Game
